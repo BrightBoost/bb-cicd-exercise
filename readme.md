@@ -21,7 +21,7 @@ The command to get it running is `bin/www`
 
 # Exercise
 
-Get this running and have it display "Got results: hello world"
+Get this running on port 80 and have it display "Got results: hello world"
 
 
 Hint: There is a dump called dump.sql, this needs to be imported into the MySQL / MariaDB database
